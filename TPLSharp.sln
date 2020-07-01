@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPLSharp", "TPLSharp\TPLSharp.csproj", "{528A388C-968A-4337-873F-409B2B6E9DDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{528A388C-968A-4337-873F-409B2B6E9DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528A388C-968A-4337-873F-409B2B6E9DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528A388C-968A-4337-873F-409B2B6E9DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528A388C-968A-4337-873F-409B2B6E9DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
